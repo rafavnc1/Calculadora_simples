@@ -95,4 +95,3 @@ numbersButton.forEach((button) => button.addEventListener("click", insertNumber)
 operatorsButton.forEach((button) => button.addEventListener("click", insertOperator));
 equalButton.addEventListener("click", calculate)
 clean.addEventListener("click", cleanUp)
-
